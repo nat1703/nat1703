@@ -1,6 +1,6 @@
 MERAKI LIVRARIA
 Viva a magia da leitura
-`Image
+`Imagem
 
 Trabalhamos com vendas e aluguel de livros
 
@@ -21,7 +21,8 @@ Av. Iguaçu, 820- Rebouças, Curitiba - PR, 80230-020
 *- Fantasia*
 *- Terror*
 *- Suspense*
-  *Entre outros!*
+ 
+*Entre outros!*
 
 
 
