@@ -11,12 +11,13 @@ Servimos café expresso
 VENHA CONHECER NOSSOS PRODUTOS
 OU ACESSE @MERAKILIVRARIA MERAKILIVRARIA
 
-Av. Iguaçu, 820- Rebouças, Curitiba - Pr, 80230-020
+Av. Iguaçu, 820- Rebouças, Curitiba - PR, 80230-020
 
 *- Romance*
 *- Fantasia*
 *- Terror*
-*- Suspense**- Romance*
+*- Suspense*
+*- Romance*
 *- Fantasia*
 *- Terror*
 *- Suspense*
@@ -69,21 +70,21 @@ DOCES:
 
 ![Image](https://user-images.githubusercontent.com/116592288/200641448-09b8dc64-351c-4d11-9b3b-af6229a2b5f4.png)
 
-*R$34,89* 
+*R$ 34,89* 
 
 
 
 
 ![Image](https://user-images.githubusercontent.com/116592288/200641745-aa19a916-0e81-4598-be7e-513a529e6129.png)
 
-*R$18,90*
+*R$ 18,90*
 
 
 
 
 ![Image](https://user-images.githubusercontent.com/116592288/200642106-89d20c78-1450-48d3-930d-747144ebf70b.png)
 
-*R$28,79*
+*R$ 28,79*
 ### **VENHAM CONFERIR NOSSA PROMOÇÃO 👍 **
 
 **ACEITAMOS:**
@@ -94,7 +95,7 @@ DOCES:
 ![Image](https://user-images.githubusercontent.com/115034765/204623178-f9cf4d9c-6ac1-4e83-b6c4-4e32892d4093.png)
 
 
-### **COMPRAS ACIMA DE R$100,00**
+### **COMPRAS ACIMA DE R$ 100,00**
 ### **PARCELAMOS EM ATÉ 3x SEM JUROS **
 
 ### **COMPRAS Á VISTA COM 5% DE DESCONTO**
