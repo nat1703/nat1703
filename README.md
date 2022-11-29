@@ -3,7 +3,9 @@ Viva a magia da leitura
 `Image
 
 Trabalhamos com vendas e aluguel de livros
+
 Possuímos o espaço da leitura
+
 Servimos café expresso
 
 VENHA CONHECER NOSSOS PRODUTOS
